@@ -1,0 +1,15 @@
+C:\Users\Gleb\Desktop\CSarp_Seminar\sem3task22\obj\Debug\net6.0\sem3task22.csproj.AssemblyReference.cache
+C:\Users\Gleb\Desktop\CSarp_Seminar\sem3task22\obj\Debug\net6.0\sem3task22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gleb\Desktop\CSarp_Seminar\sem3task22\obj\Debug\net6.0\sem3task22.AssemblyInfoInputs.cache
+C:\Users\Gleb\Desktop\CSarp_Seminar\sem3task22\obj\Debug\net6.0\sem3task22.AssemblyInfo.cs
+C:\Users\Gleb\Desktop\CSarp_Seminar\sem3task22\obj\Debug\net6.0\sem3task22.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\Desktop\CSarp_Seminar\sem3task22\bin\Debug\net6.0\sem3task22.exe
+C:\Users\Gleb\Desktop\CSarp_Seminar\sem3task22\bin\Debug\net6.0\sem3task22.deps.json
+C:\Users\Gleb\Desktop\CSarp_Seminar\sem3task22\bin\Debug\net6.0\sem3task22.runtimeconfig.json
+C:\Users\Gleb\Desktop\CSarp_Seminar\sem3task22\bin\Debug\net6.0\sem3task22.dll
+C:\Users\Gleb\Desktop\CSarp_Seminar\sem3task22\bin\Debug\net6.0\sem3task22.pdb
+C:\Users\Gleb\Desktop\CSarp_Seminar\sem3task22\obj\Debug\net6.0\sem3task22.dll
+C:\Users\Gleb\Desktop\CSarp_Seminar\sem3task22\obj\Debug\net6.0\refint\sem3task22.dll
+C:\Users\Gleb\Desktop\CSarp_Seminar\sem3task22\obj\Debug\net6.0\sem3task22.pdb
+C:\Users\Gleb\Desktop\CSarp_Seminar\sem3task22\obj\Debug\net6.0\sem3task22.genruntimeconfig.cache
+C:\Users\Gleb\Desktop\CSarp_Seminar\sem3task22\obj\Debug\net6.0\ref\sem3task22.dll

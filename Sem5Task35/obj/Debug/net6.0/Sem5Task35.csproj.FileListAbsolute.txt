@@ -1,0 +1,15 @@
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem5Task35\bin\Debug\net6.0\Sem5Task35.exe
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem5Task35\bin\Debug\net6.0\Sem5Task35.deps.json
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem5Task35\bin\Debug\net6.0\Sem5Task35.runtimeconfig.json
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem5Task35\bin\Debug\net6.0\Sem5Task35.dll
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem5Task35\bin\Debug\net6.0\Sem5Task35.pdb
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem5Task35\obj\Debug\net6.0\Sem5Task35.csproj.AssemblyReference.cache
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem5Task35\obj\Debug\net6.0\Sem5Task35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem5Task35\obj\Debug\net6.0\Sem5Task35.AssemblyInfoInputs.cache
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem5Task35\obj\Debug\net6.0\Sem5Task35.AssemblyInfo.cs
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem5Task35\obj\Debug\net6.0\Sem5Task35.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem5Task35\obj\Debug\net6.0\Sem5Task35.dll
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem5Task35\obj\Debug\net6.0\refint\Sem5Task35.dll
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem5Task35\obj\Debug\net6.0\Sem5Task35.pdb
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem5Task35\obj\Debug\net6.0\Sem5Task35.genruntimeconfig.cache
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem5Task35\obj\Debug\net6.0\ref\Sem5Task35.dll

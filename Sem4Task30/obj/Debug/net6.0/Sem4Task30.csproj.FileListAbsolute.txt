@@ -1,0 +1,15 @@
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem4Task30\obj\Debug\net6.0\Sem4Task30.csproj.AssemblyReference.cache
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem4Task30\obj\Debug\net6.0\Sem4Task30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem4Task30\obj\Debug\net6.0\Sem4Task30.AssemblyInfoInputs.cache
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem4Task30\obj\Debug\net6.0\Sem4Task30.AssemblyInfo.cs
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem4Task30\obj\Debug\net6.0\Sem4Task30.csproj.CoreCompileInputs.cache
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem4Task30\bin\Debug\net6.0\Sem4Task30.exe
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem4Task30\bin\Debug\net6.0\Sem4Task30.deps.json
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem4Task30\bin\Debug\net6.0\Sem4Task30.runtimeconfig.json
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem4Task30\bin\Debug\net6.0\Sem4Task30.dll
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem4Task30\bin\Debug\net6.0\Sem4Task30.pdb
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem4Task30\obj\Debug\net6.0\Sem4Task30.dll
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem4Task30\obj\Debug\net6.0\refint\Sem4Task30.dll
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem4Task30\obj\Debug\net6.0\Sem4Task30.pdb
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem4Task30\obj\Debug\net6.0\Sem4Task30.genruntimeconfig.cache
+C:\Users\Gleb\Desktop\CSarp_Seminar\Sem4Task30\obj\Debug\net6.0\ref\Sem4Task30.dll
