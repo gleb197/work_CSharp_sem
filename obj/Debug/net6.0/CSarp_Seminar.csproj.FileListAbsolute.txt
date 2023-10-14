@@ -1,0 +1,5 @@
+C:\Users\Gleb\Desktop\CSarp_Seminar\obj\Debug\net6.0\CSarp_Seminar.csproj.AssemblyReference.cache
+C:\Users\Gleb\Desktop\CSarp_Seminar\obj\Debug\net6.0\CSarp_Seminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gleb\Desktop\CSarp_Seminar\obj\Debug\net6.0\CSarp_Seminar.AssemblyInfoInputs.cache
+C:\Users\Gleb\Desktop\CSarp_Seminar\obj\Debug\net6.0\CSarp_Seminar.AssemblyInfo.cs
+C:\Users\Gleb\Desktop\CSarp_Seminar\obj\Debug\net6.0\CSarp_Seminar.csproj.CoreCompileInputs.cache
